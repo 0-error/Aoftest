@@ -27,6 +27,7 @@ pip install requirements.txt
 ```
 
 下载Chromium并在配置文件中进行配置
+
 <img src="https://github.com/0-error/picture/blob/master/peizhi4.png" height="180" width="600">
 
 输入并保存域名（以某厂商之前的src为例）：
@@ -59,6 +60,7 @@ url信息：
 <img src="https://github.com/0-error/picture/blob/master/request.png" height="280" width="600">
 
 端口服务信息：
+
 <img src="https://github.com/0-error/picture/blob/master/nmap.png" height="280" width="600">
 
 漏洞信息：
