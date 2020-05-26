@@ -27,6 +27,7 @@ pip install requirements.txt
 ```
 
 下载Chromium并在配置文件中进行配置
+<img src="https://github.com/0-error/picture/blob/master/peizhi4.png" height="180" width="600">
 
 输入并保存域名（以某厂商之前的src为例）：
 
@@ -57,6 +58,9 @@ url信息：
 
 <img src="https://github.com/0-error/picture/blob/master/request.png" height="280" width="600">
 
+端口服务信息：
+<img src="https://github.com/0-error/picture/blob/master/nmap.png" height="280" width="600">
+
 漏洞信息：
 
 <img src="https://github.com/0-error/picture/blob/master/vuln.png" height="280" width="600">
@@ -69,18 +73,18 @@ url信息：
 
 配置文件更改
 
-<img src="https://github.com/0-error/picture/blob/master/peizhi1.png" height="280" width="600">
+<img src="https://github.com/0-error/picture/blob/master/peizhi1.png" height="180" width="600">
 
 可在资产已知的情况对资产进行爬虫和扫描
 
 配置文件更改
 
-<img src="https://github.com/0-error/picture/blob/master/peizhi2.png" height="280" width="600">
+<img src="https://github.com/0-error/picture/blob/master/peizhi2.png" height="180" width="600">
 
 可单独运行资产收集，不进行爬虫和扫描
 
 配置代理，可与burp联动
 
-<img src="https://github.com/0-error/picture/blob/master/peizhi3.png" height="280" width="600">
+<img src="https://github.com/0-error/picture/blob/master/peizhi3.png" height="180" width="600">
 
 更多用法可以学习oneforall，crawlergo，xray研究。
