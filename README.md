@@ -89,4 +89,4 @@ url信息：
 
 <img src="https://github.com/0-error/picture/blob/master/peizhi3.png" height="180" width="600">
 
-更多用法可以学习oneforall，crawlergo，xray研究。
+更多用法可以自行安装研究，src利器。
