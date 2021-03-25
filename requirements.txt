@@ -57,7 +57,7 @@ PySocks==1.7.1
 python-jose==3.1.0
 python-nmap==0.6.1
 pytz==2019.3
-PyYAML==5.2
+PyYAML==5.4
 records==0.5.3
 requests==2.22.0
 requests-file==1.4.3
